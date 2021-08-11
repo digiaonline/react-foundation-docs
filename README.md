@@ -1,6 +1,6 @@
 # React + Foundation documentation
 
-[![Build](https://github.com/digiaonline/react-foundation-docs/actions/workflows/test.yml/badge.svg)](https://github.com/digiaonline/react-foundation-docs/actions)
+[![Build](https://github.com/digiaonline/react-foundation-docs/actions/workflows/build.yml/badge.svg)](https://github.com/digiaonline/react-foundation-docs/actions)
 
 Documentation for [React + Foundation](https://github.com/digiaonline/react-foundation).
 
