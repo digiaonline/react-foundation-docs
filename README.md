@@ -1,8 +1,8 @@
 # React + Foundation documentation
 
-[![Build Status](https://travis-ci.org/digiaonline/react-foundation-docs.svg?branch=master)](https://travis-ci.org/digiaonline/react-foundation-docs)
+[![Build](https://github.com/digiaonline/react-foundation-docs/actions/workflows/test.yml/badge.svg)](https://github.com/digiaonline/react-foundation-docs/actions/workflows/test.yml)
 
-Documentation for [React + Foundation](http://github.com/nordsoftware/react-foundation).
+Documentation for [React + Foundation](https://github.com/digiaonline/react-foundation).
 
 ## Installation
 
