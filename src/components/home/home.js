@@ -31,7 +31,7 @@ export const Home = () => (
           <h1>React + Foundation</h1>
           <p className="mission">Foundation as React components</p>
           <div className="buttons">
-            <Link href="//github.com/nordsoftware/react-foundation" size={Sizes.LARGE}>Get started</Link>
+            <Link href="//github.com/digiaonline/react-foundation" size={Sizes.LARGE}>Get started</Link>
           </div>
         </Cell>
       </Grid>

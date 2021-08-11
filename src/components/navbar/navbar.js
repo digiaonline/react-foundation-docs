@@ -25,7 +25,7 @@ export const Navbar = () => (
           <a href="//npmjs.org/package/react-foundation" target="_blank">NPM</a>
         </MenuItem>
         <MenuItem>
-          <a href="//github.com/nordsoftware/react-foundation" target="_blank">GitHub</a>
+          <a href="//github.com/digiaonline/react-foundation" target="_blank">GitHub</a>
         </MenuItem>
       </Menu>
     </TopBarRight>
