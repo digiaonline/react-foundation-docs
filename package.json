@@ -4,21 +4,21 @@
   "description": "Documentation for React + Foundation",
   "main": "src/main.js",
   "scripts": {
-    "start": "webpack-dev-server --inline --progress --colors --history-api-fallback --config webpack/development.js",
+    "start": "webpack-dev-server --inline --progress --colors --history-api-fallback --config webpack/development.js --open",
     "dist": "webpack -p --config webpack/production.js",
     "serve": "serve dist/",
     "lint": "eslint src"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nordsoftware/react-foundation-docs.git"
+    "url": "git+https://github.com/digiaonline/react-foundation-docs.git"
   },
   "author": "Christoffer Niska <christofferniska@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nordsoftware/react-foundation-docs/issues"
+    "url": "https://github.com/digiaonline/react-foundation-docs/issues"
   },
-  "homepage": "https://github.com/nordsoftware/react-foundation-docs#readme",
+  "homepage": "https://github.com/digiaonline/react-foundation-docs#readme",
   "engines": {
     "node": "^10"
   },
