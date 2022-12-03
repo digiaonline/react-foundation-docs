@@ -23,7 +23,7 @@
     "node": "^10"
   },
   "devDependencies": {
-    "serve": "^11.3.2",
+    "serve": "^14.1.2",
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
